@@ -9,7 +9,7 @@ For example, we could write the "wool scarf" example mentioned in the JBehave ex
  Then I should only see items related to 'wool'
 ----
 
-This format is known as 'Gherkin', and is widely used in Cucumber and other Cucumber-based BDD tools such as SpecFlow (for .NET) and Behave (for Python). Gherkin is a flexible, highly readable format that can be written collaboratively with product owners to ensure that everyone . The loosely-structured 'Given-When-Then' format helps people focus on what they are trying to achieve, and how they will know when they get it.
+This format is known as 'Gherkin', and is widely used in Cucumber and other Cucumber-based BDD tools such as SpecFlow (for .NET) and Behave (for Python). Gherkin is a flexible, highly readable format that can be written collaboratively with product owners to ensure that everyone is on the same page. The loosely-structured 'Given-When-Then' format helps people focus on what they are trying to achieve, and how they will know when they get it.
 
 Sometimes tables can be used to summarize several different examples of the same scenario.
 In Gherkin, you can use example tables to do this.
